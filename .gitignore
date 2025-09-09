@@ -1,0 +1,10 @@
+.DS_Store
+/node_modules
+*.js
+*.json
+*.html
+/dist/mac-arm64
+*.yml
+*.yaml
+*.blockmap
+*.icns
